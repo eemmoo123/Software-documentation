@@ -106,7 +106,10 @@ The Language Learning Tool can integrate with various applications:
 1. For more information on gamification in education, check out [this article](https://example.com).
 2. To learn more about language learning strategies, visit the [Language Learning Blog](https://example.com).
 
-![Language Learning Tool Interface](language_learning_tool_interface.png)
+## Screenshot 🖼️
+
+
+![لقطة شاشة 2024-10-29 002246](https://github.com/user-attachments/assets/b0fc6257-1e7c-41f5-8a9c-441e97b461a6)
 
 
 
